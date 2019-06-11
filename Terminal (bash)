@@ -1,0 +1,22 @@
+AttributeError: 'tuple' object has no attribute 'next'                                                                                                           
+joseph@Josephs-MacBook-Pro: [PEP-88088] $ python sampleFile.py                                                                                                   
+  File "sampleFile.py", line 154                                                                                                                                 
+    fitLine = xDataset                                                                                                                                           
+          ^                                                                                                                                                      
+SyntaxError: invalid syntax                                                                                                                                      
+joseph@Josephs-MacBook-Pro: [PEP-88088] $ python sampleFile.py                                                                                                   
+joseph@Josephs-MacBook-Pro: [PEP-88088] $ python sampleFile.py                                                                                                   
+joseph@Josephs-MacBook-Pro: [PEP-88088] $ python sampleFile.py                                                                                                   
+joseph@Josephs-MacBook-Pro: [PEP-88088] $ python sampleFile.py                                                                                                   
+joseph@Josephs-MacBook-Pro: [PEP-88088] $ python sampleFile.py                                                                                                   
+joseph@Josephs-MacBook-Pro: [PEP-88088] $ python sampleFile.py                                                                                                   
+joseph@Josephs-MacBook-Pro: [PEP-88088] $ python sampleFile.py                                                                                                   
+joseph@Josephs-MacBook-Pro: [PEP-88088] $ python sampleFile.py                                                                                                   
+joseph@Josephs-MacBook-Pro: [PEP-88088] $ python sampleFile.py                                                                                                   
+/Users/joseph/miniconda2/lib/python2.7/site-packages/matplotlib/cbook/deprecation.py:107: MatplotlibDeprecationWarning: Adding an axes using the same arguments a
+s a previous axes currently reuses the earlier instance.  In a future version, a new instance will always be created and returned.  Meanwhile, this warning can b
+e suppressed, and the future behavior ensured, by passing a unique label to each axes instance.                                                                  
+  warnings.warn(message, mplDeprecation, stacklevel=1)                                                                                                           
+joseph@Josephs-MacBook-Pro: [PEP-88088] $ python sampleFile.py                                                                                                   
+joseph@Josephs-MacBook-Pro: [PEP-88088] $ python sampleFile.py                                                                                                   
+joseph@Josephs-MacBook-Pro: [PEP-88088] $                                                                                                                        

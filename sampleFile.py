@@ -113,7 +113,7 @@ def main():
 
     ## generate fake error bars ##
     errLinY = [0.2*random.random() for y in linY]
-    plt.errorbar(xDataset, linY, yerr=errLinY, fmt='d', color='orange', label='data')
+    plt.errorbar(xDataset, linY, yerr=errLinY, fmt='d', color='orange', label='data', markeredgecolor='black', ecolor='black')
 
     ## create fit line ##
     fitLine = xDataset
@@ -149,7 +149,7 @@ def main():
 
     ## generate fake error bars ##
     errLinY = [0.2*random.random() for y in dataObject.y]
-    plt.errorbar(xDataset, dataObject.y, yerr=errLinY, fmt='d', color="green", label='best fit')
+    plt.errorbar(xDataset, dataObject.y, yerr=errLinY, fmt='d', color="green", label='best fit', markeredgecolor='black', ecolor='black')
 
     ## create fit line ##
     fitLine = xDataset
